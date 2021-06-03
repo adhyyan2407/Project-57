@@ -24,3 +24,8 @@ p {
     background-color: black;
     margin: 8px auto;
 }
+
+img {
+    background-color: transparent;
+}
+   
